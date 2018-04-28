@@ -24,8 +24,8 @@ def main():
         listeners = results[i]["listeners"]
         print(f'{i+1} : {name}\n')
         print(f'     By {artist}\n')
-        print(f'     {url} \n')
-        print(f'     {listeners} \n\n\n')
+        print(f'     last.fm URL : {url} \n')
+        print(f'     Number of Listeners : {listeners} \n\n\n')
 
 
 if __name__ == "__main__":
