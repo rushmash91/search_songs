@@ -1,2 +1,11 @@
-# search_songs
-Search for Tracks and get the top hits with the Artist, Number of listeners and a link to the Song. Uses the last.fm API.  
+### search_songs
+
+##Search for Tracks  
+
+#Get the top hits with 
+1. Artist 
+2. Number of listeners
+3. Link to the Song
+
+
+*Uses last.fm API.*  
